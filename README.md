@@ -3,8 +3,8 @@ easier ways to use unity by using tools i made
 
 # Future Plans
 ```cs
-using Tools.Optimization
-using Tools.Scripts
+using Tools.Optimization;
+using Tools.Scripts;
 ```
 
 # Script Tools
