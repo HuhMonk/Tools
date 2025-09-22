@@ -3,9 +3,22 @@
 easier ways to use unity by using tools i made
 
 # Future Plans
+making a better place for the documentation
 ```cs
 using Tools.Optimization;
 using Tools.Scripts;
+using Tools.Editor
+```
+## Scripting Symbols
+```cs
+#if TOOLS
+#endif
+#if TOOLS.SCRIPTS
+#endif
+#if TOOLS.EDITOR
+#endif
+#if TOOLS.OPTIMIZATION
+#endif
 ```
 
 # Script Tools
